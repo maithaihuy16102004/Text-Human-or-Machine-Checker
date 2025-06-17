@@ -187,12 +187,4 @@ git push origin feature/<tên-tính-năng>
 
 Dự án này được cấp phép theo giấy phép **MIT License**.
 
----
 
-> *Cập nhật lần cuối: 11:15 PM +07, Thứ Ba, 17/06/2025*
-
----
-
----
-
-👉 **Nếu bạn muốn, tôi có thể tạo cho bạn luôn file `README.md` hoàn chỉnh (chuẩn Markdown) để bạn chỉ cần copy-paste hoặc import trực tiếp vào repo của bạn. Bạn có muốn tôi tạo luôn không?**
